@@ -1,0 +1,15 @@
+/home/zhenny/testing/bin/Debug/net6.0/testing
+/home/zhenny/testing/bin/Debug/net6.0/testing.deps.json
+/home/zhenny/testing/bin/Debug/net6.0/testing.runtimeconfig.json
+/home/zhenny/testing/bin/Debug/net6.0/testing.dll
+/home/zhenny/testing/bin/Debug/net6.0/testing.pdb
+/home/zhenny/testing/obj/Debug/net6.0/testing.csproj.AssemblyReference.cache
+/home/zhenny/testing/obj/Debug/net6.0/testing.GeneratedMSBuildEditorConfig.editorconfig
+/home/zhenny/testing/obj/Debug/net6.0/testing.AssemblyInfoInputs.cache
+/home/zhenny/testing/obj/Debug/net6.0/testing.AssemblyInfo.cs
+/home/zhenny/testing/obj/Debug/net6.0/testing.csproj.CoreCompileInputs.cache
+/home/zhenny/testing/obj/Debug/net6.0/testing.dll
+/home/zhenny/testing/obj/Debug/net6.0/refint/testing.dll
+/home/zhenny/testing/obj/Debug/net6.0/testing.pdb
+/home/zhenny/testing/obj/Debug/net6.0/testing.genruntimeconfig.cache
+/home/zhenny/testing/obj/Debug/net6.0/ref/testing.dll
